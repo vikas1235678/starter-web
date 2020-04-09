@@ -20,3 +20,6 @@ Making changes to test diff command for particular file
 
 second time I am modificating in same file in untrack case
 
+I am editing in master branch to show fast forawrd
+
+
