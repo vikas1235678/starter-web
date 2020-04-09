@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #starrter web project
 
 This is the simple website project for showing how to use git and github together.
@@ -23,3 +24,6 @@ second time I am modificating in same file in untrack case
 I am editing in master branch to show fast forawrd
 
 
+=======
+This is the changes made in mybranch 
+>>>>>>> mybranch
