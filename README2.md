@@ -8,7 +8,7 @@ This example is to show different parts of git repository and various commands u
 
 ##purpose
 
-
+As stated above , the main purpose is to provide is
 
 ##Deployment
 
@@ -16,5 +16,7 @@ This example is to show different parts of git repository and various commands u
 
 ##how to contribute
 
+Making changes to test diff command for particular file 
 
+second time I am modificating in same file in untrack case
 
